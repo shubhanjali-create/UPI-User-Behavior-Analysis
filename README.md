@@ -4,7 +4,7 @@ A data analysis project exploring general UPI (Unified Payments Interface) usage
 
 ## Overview
 
-UPI has become the dominant mode of digital payment in India, with multiple apps — PhonePe, Google Pay, Paytm, BHIM, and others — competing for everyday use. This project studies general UPI usage habits among users to understand patterns of preference across different apps.
+UPI has become the dominant mode of digital payment in India, with multiple apps -PhonePe, Google Pay, Paytm, BHIM, and others -competing for everyday use. This project studies general UPI usage habits among users to understand patterns of preference across different apps.
 
 ## Objective
 
